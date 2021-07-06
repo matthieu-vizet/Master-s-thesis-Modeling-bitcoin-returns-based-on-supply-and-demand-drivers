@@ -1,2 +1,2 @@
-# Master's thesis: Modeling bitcoin returns based on supply and demand drivers
+# Master's thesis
 Paper and data analysis
